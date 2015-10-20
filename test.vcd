@@ -1,0 +1,66 @@
+$date
+	Tue Oct 20 13:54:26 2015
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tbench $end
+$scope module divider_10_11 $end
+$var wire 10 ! i1 [9:0] $end
+$var wire 14 " i2 [13:0] $end
+$var wire 10 # o1 [9:0] $end
+$var wire 24 $ o_tmp [23:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx $
+bx #
+b10111010010 "
+bx !
+$end
+#600
+b1 #
+b10000 !
+b101110100100000 $
+#1600
+bx #
+b0zzzzzzzz !
+bx $
+#2600
+b10 #
+b10110 !
+b1000000000001100 $
+#3600
+bx #
+b0zzzzzzzz !
+bx $
+#4600
+b100 #
+b101100 !
+b10000000000011000 $
+#5600
+bx #
+b0zzzzzzzz !
+bx $
+#6600
+b1000 #
+b1011000 !
+b100000000000110000 $
+#7600
+bx #
+b0zzzzzzzz !
+bx $
+#8600
+b1000 #
+b1011111 !
+b100010100011101110 $
+#9600
+bx #
+b0zzzzzzzz !
+bx $
+#1009600
