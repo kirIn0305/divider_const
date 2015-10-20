@@ -102,7 +102,7 @@ endmodule""".format(self.dividend_width, self.divisor, len(self.new_divisor), se
         print("     success creating divider verilog file")
 
 if __name__ == '__main__':
-    test = divider_const(10, 11)
+    test = divider_const(int(sys.argv[1]), int(sys.argv[2]))
     test.calc_bin()
     test.create_divider_hdl()
 
