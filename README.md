@@ -23,7 +23,7 @@ Unsignedの場合の手順
 ## Usage
 
 ```bash:terminal
-# Makefile愛を編集
+# Makefileを編集
 # 被除数 K 除数C
 # DIVIDEND_WIDTH = K
 # DIVISOR = C
@@ -34,5 +34,4 @@ $ make sim
 
 ## References
 
->[Gradient ベースの特徴抽出 -SIFTとHOG-](http://www.hci.iis.u-tokyo.ac.jp/~ysato/class14/supplements/sift_tutorial-Fujiyoshi.pdf)  
->[SIFTを一から組むブログ](http://d.hatena.ne.jp/colorcle/20090629/1246292723)
+> [LSI/FPGAの回路アーキテクチャ設計法](http://shop.cqpub.co.jp/hanbai/books/31/31091.html)
